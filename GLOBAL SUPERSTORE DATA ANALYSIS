@@ -1,0 +1,18 @@
+# Context
+Today, many businesses are going online and therefore online marketing is essential to retain customers. 
+However, treating customers equally and targeting them with generic marketing strategies can be ineffective and even alienating. 
+This is where customer segmentation comes into play as a powerful solution. 
+The goal of customer segmentation is to divide the company’s customers based on their demographic characteristics (age, gender, marital status) and their behavior characteristics (types of products ordered, annual income). 
+Considering the nature of the data, focusing on the behavioral characteristics of the customers in customer segmentation process is the best approach.
+
+In this project we aim to use the following algorithms:
+
+Clustering algorithms: This K-Means algorithm will be used to find the k number of clusters in a dataset. This will help us to divide customers into groups based on their characteristics and behaviour.
+
+Association rule learning: This method finds the relationships between customer attributes and behaviours, such as buying habits and product preferences. 
+Association rule learning can help companies understand which products are frequently purchased together and target customers accordingly.
+
+# Project Objectives
+1. Identify Distinct Customer Segments
+2. Optimize Marketing Strategies
+3. Enhance Customer Retention
